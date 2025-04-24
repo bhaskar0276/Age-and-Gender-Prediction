@@ -1,0 +1,8 @@
+boto3                  # To connect with AWS services like S3
+pandas                 # For working with DataFrames
+python-dotenv          # To load environment variables from .env
+opencv-python          # For image reading if you're loading images locally
+numpy<2.0                  # For numerical operations
+tensorflow==2.10.0     # For deep learning model training (adjust if using PyTorch or another)
+Pillow                 # For image processing
+sagemaker            # For SageMaker functionalities
